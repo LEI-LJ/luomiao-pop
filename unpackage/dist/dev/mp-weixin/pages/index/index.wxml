@@ -1,1 +1,0 @@
-<view class="content"><luomiao-pop class="vue-ref" vue-id="8dd740cc-1" backgroundColor="#212531" data-ref="luomiaoPop" data-event-opts="{{[['^uploadImg',[['uploadImg']]]]}}" bind:uploadImg="__e" bind:__l="__l"></luomiao-pop><button data-event-opts="{{[['tap',[['handleOpen',['$event']]]]]}}" bindtap="__e">点击</button></view>

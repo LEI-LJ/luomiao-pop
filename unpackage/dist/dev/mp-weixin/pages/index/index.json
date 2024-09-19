@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "uni-app",
-  "usingComponents": {
-    "luomiao-pop": "/components/luomiao-pop/cmp/luomiao-pop"
-  }
-}

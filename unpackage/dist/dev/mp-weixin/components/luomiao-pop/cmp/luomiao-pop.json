@@ -1,6 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "uni-transition": "/components/luomiao-pop/cmp/uni-transition/uni-transition"
-  }
-}
